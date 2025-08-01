@@ -12,5 +12,5 @@ This project implements a basic blockchain in C++ with a Proof of Work system.
 ## Usage
 
 1. Compile the project:
-   ```bash
-   c++ main.cpp -o blockchain -lssl -lcrypto -Wno-deprecated-declarations
+```bash
+c++ main.cpp -o blockchain -lssl -lcrypto -Wno-deprecated-declarations
